@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "测试文章"
+subtitle:   "yesss"
+date:       2025-2-22
+author:     "Miyamiz"
+header-img: "img/post-bg-kuaidi.jpg"
+tags:
+    -生物信息
+    
+---
+
+这是一篇测试文章
+##这是标题
+
+这是段落1
+
+1. 这是标号1
+
+  * 这是标号1下的点
+
+`python
+print('Hello world!')
+`
+
