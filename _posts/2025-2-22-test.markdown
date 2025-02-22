@@ -46,5 +46,5 @@ tags:
     
     ~~这是删除线~~
 
-    [这是链接](deepseek.com)
+    [这是链接](https://chat.deepseek.com)
 
