@@ -1,25 +1,50 @@
 ---
 layout:     post
 title:      "测试文章"
-subtitle:   "yesss"
+subtitle:   "test test"
 date:       2025-2-22
 author:     "Miyamiz"
-header-img: "img/post-bg-kuaidi.jpg"
+header-img: "img/wafuku_miku.jpg"
 tags:
     -生物信息
     
 ---
 
 这是一篇测试文章
-##这是标题
 
-这是段落1
+# 这是一级标题
+
+## 这是二级标题
+
+这是段落
 
 1. 这是标号1
 
-  * 这是标号1下的点
+    * 这是标号1下的点
 
-`python
-print('Hello world!')
-`
+        ```python
+        #这是一个python代码块
+        print('Hello world!')
+        ```
+
+        ```cpp
+        //这是一个c艹代码块
+        #include <iostream>
+        using namespace std;
+        int main()
+    
+        {
+        cout << "Hello world!" << endl;
+        return 0;
+        }
+        ```
+
+    * 这是 `行内代码` 。
+2. 这是标号2
+
+    *斜体*，**粗体**， ***粗斜体***
+    
+    ~~这是删除线~~
+
+    [这是链接](deepseek.com)
 
