@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要好好学生物 <br> zzd23@mails.tsinghua.edu.cn"
-sidebar-avatar: https://github.com/Miyamiz39/miyamiz39.github.io/blob/master/img/figure.jpg?raw=true # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://miyamiz39.github.io/miya_bioinfo/docs/figure.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
