@@ -1,6 +1,6 @@
 ### ~~すみません、中国人なので、英語できません。~~
 
-## **What is this biog for?**
+## **What is this blog for?**
 
 For course notes. Furthermore, I might post some of my articles here.
 
