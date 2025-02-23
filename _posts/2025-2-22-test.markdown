@@ -6,7 +6,8 @@ date:       2025-2-22
 author:     "Miyamiz"
 header-img: "img/wafuku_miku.jpg"
 tags:
-    -生物信息
+    - 生物信息
+    - 测试
     
 ---
 
