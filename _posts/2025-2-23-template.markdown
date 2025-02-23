@@ -40,6 +40,5 @@ tags:
 
 #### 1.2 关键公式
 
-```latex
-F = ma \quad \text{(牛顿第二定律)}
-```
+
+$F = ma \quad \text{(牛顿第二定律)}$
