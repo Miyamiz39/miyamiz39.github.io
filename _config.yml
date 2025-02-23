@@ -37,6 +37,10 @@ exclude:
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN
+markdown: kramdown
+kramdown:
+  math_engine: mathjax       # 使用 MathJax 渲染公式
+  syntax_highlighter: rouge  # 可选：代码高亮
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
