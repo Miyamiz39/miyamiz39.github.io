@@ -1,0 +1,98 @@
+# Lesson 1 课堂笔记
+
+*2025.2.21*
+
+##  课程逻辑
+
+要求：
+- 会自己安装软件
+- 有基本的编程能力
+- 接触过Linux
+
+**生物信息学** 课 vs. **基因组学** 课 ：~~单纯地运行软件的能力~~ 探索各种真实数据的自由
+
+![课程安排]()
+
+主要参考：
+- [讲义与slides](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2F&mode=list)
+- [Bioinformatics Tutorials](https://book.ncrnalab.org)
+- [大纲](https://365.kdocs.cn/l/caAbfIt5y8Fk)
+- 进阶：《Bioinformatics Data Skills》
+
+评分机制：
+*20%* **课堂互动**，*80%* **当堂和课后作业**, 经验分享（3+7），加分题
+
+答疑：每周上课，下课后半小时
+
+---
+
+##  生信简介Part 1：大数据驱动的
+
+
+### 1. Informaiton: DNA/RNA序列
+2007-2008，测序能力革命。三大工程之一：人类基因组计划（HGP）
+
+NGS（下一代测序）:
+
+1. DNA-seq
+2. RNA-seq
+3. Epigenetics
+    - DNAase
+    - Methylation
+    - Histone modifications: ChIP-seq
+4. Interaction
+    - Protein-DNA : ChIP-seq
+    - Protein-RNA: CLIP-seq 
+    - DNA-RNA: Grid-seq
+
+测序数据向着 **大数据量** 及 **高清** 发展，
+估计以 0.4-4 billion（个基因组）/年 的速度增长
+
+人类基因组以外：*宏基因组学*
+
+### 2. Analysis: Data Clean & Feature Extraction
+
+### 3. Modeling：概率模型和算法
+
+线性回归、Logistic回归、决策树、深度学习、贝叶斯、隐马尔可夫模型......
+
+神经网络模型：Deep Learning
+
+![deep learning]()
+
+### 4. 第四范式：数据驱动的科学
+~~Question -> Information -> Analysis -> Modeling~~
+
+**Information -> Analysis -> Modeling -> Question**
+
+---
+### 课后题
+鸡兔同笼，头14个，腿38条。
+
+- 小学解法：
+
+    假设笼子里都是鸡。那么应该有
+    $ 14 \times 2 = 28$ 条腿。
+    
+    实际上多出 $38 - 28 = 10$ 条腿，而每有一只兔子，会使总数多出 $2$ 条腿
+
+    所以有 $10 / 2 = 5$ 只兔子。
+
+    同时有 $14 - 5 = 9$ 只鸡。
+
+- 中学解法：
+
+    设有 $x$ 只鸡，$y$ 只兔子，
+    
+
+    $x + y = 14$，
+    
+    $2x + 2y = 38$，
+    
+   联立解得：
+
+    $x = 9$，
+    
+    $y = 5$。
+
+---
