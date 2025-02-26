@@ -20,7 +20,7 @@ tags:
 
 **生物信息学** 课 vs. **基因组学** 课 ：~~单纯地运行软件的能力~~ 探索各种真实数据的自由
 
-![课程安排]()
+![课程安排](../img/课程大纲.png)
 
 主要参考：
 - [讲义与slides](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2F&mode=list)
@@ -67,7 +67,7 @@ NGS（下一代测序）:
 
 神经网络模型：Deep Learning
 
-![deep learning]()
+![deep learning](../img/deeplearn.png)
 
 ### 4. 第四范式：数据驱动的科学
 ~~Question -> Information -> Analysis -> Modeling~~
