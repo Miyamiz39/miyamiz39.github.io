@@ -1,0 +1,38 @@
+# 2025春 生物信息学学习计划
+
+## 📌 学习目标
+1. **掌握基础**：理解生物信息学核心概念（序列比对、基因组组装、系统发育分析）
+2. **技能提升**：熟练使用Python/R处理生物数据，掌握Linux基础命令
+3. **工具应用**：实战操作BLAST、Bioconductor、GATK等工具链
+
+---
+
+## 📅 阶段计划
+### 🍂 Week 1-4：
+- **理论学习**
+  - 生物信息学科 introduction
+- **实践**
+  - Linux配置
+  - Linux Bash 脚本
+  - 序列比对Blast
+  - 基因组计划
+
+### 🍁 Week 5-10：work with R
+  - NGS
+  - DNA-seq、RNA-seq
+  - Clustering:GO/KEGG/GSEA
+  - ChIP-seq, CLIP-seq
+- **可视化实战**
+  - R语言画图
+
+### ❄️ Week 13-16:机器学习和AI
+- 基础与模型
+- **Presentation** about 机器学习 & AI❗❗❗
+
+---
+
+## 📚 学习资源
+- [讲义与slides](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2F&mode=list)
+- [Bioinformatics Tutorials](https://book.ncrnalab.org)
+- [大纲](https://365.kdocs.cn/l/caAbfIt5y8Fk)
+- 进阶：《Bioinformatics Data Skills》
